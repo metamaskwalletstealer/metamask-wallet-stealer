@@ -33,7 +33,7 @@ TELEGRAM = https://t.me/cryptodrainexe
 
 (beware of fakes impersonating me. my username is cryptodrainexe)
 
-https://i.imgur.com/arCTOGK.png
+[https://i.imgur.com/arCTOGK.png](https://t.me/cryptodrainexe)
 
 
     Heads Up: ⚠️This is a loaded blade 🔪. Where you swing it is your call. I’m not here to nanny or preach 🙅‍♂️. Stay sharp, stay hidden 🕵️‍♂️.
