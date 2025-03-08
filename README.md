@@ -31,6 +31,8 @@ Lock It Down: 📩message me on telegram 🧾. Script and setup hit you in 24 ho
 
 TELEGRAM = https://t.me/cryptodrainexe
 
+[Imgur](https://imgur.com/arCTOGK)
+
 (beware of fakes impersonating me. my username is cryptodrainexe)
 
 [https://i.imgur.com/arCTOGK.png](https://t.me/cryptodrainexe)
