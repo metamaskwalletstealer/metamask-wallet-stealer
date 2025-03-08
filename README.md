@@ -31,10 +31,8 @@ Lock It Down: 📩message me on telegram 🧾. Script and setup hit you in 24 ho
 
 TELEGRAM = https://t.me/cryptodrainexe
 
-[Imgur](https://imgur.com/arCTOGK)
-
 (beware of fakes impersonating me. my username is cryptodrainexe)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="arCTOGK"><a href="https://imgur.com/arCTOGK">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src=https://i.imgur.com/arCTOGK.png">
 
     Heads Up: ⚠️This is a loaded blade 🔪. Where you swing it is your call. I’m not here to nanny or preach 🙅‍♂️. Stay sharp, stay hidden 🕵️‍♂️.
